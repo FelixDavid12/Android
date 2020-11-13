@@ -3,7 +3,7 @@
 _El proyecto mostrado a continuación a tráves de fotos, puede ser mejorado y agradezco todos los consejos que los apreciados lectores puedan ofrecerme._
 
 ## Idiomas
-[Hola](/HolaMundo/es.png)
+[Hola](/HolaMundo/es.PNG)
 
 ## Soporte de tamaños y orientación
 
